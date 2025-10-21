@@ -1,11 +1,9 @@
-# SoleStyle - E-commerce Shoe Store
+# LabXpert - Store
 
 ## Overview
-
-SoleStyle is a modern e-commerce platform specializing in premium sneakers and shoes from top brands like Nike, Adidas, Jordan, Converse, and Vans. The application features a clean, product-focused design with user authentication, product browsing, and shopping cart functionality. Built as a full-stack web application with a React frontend and Express backend, it emphasizes visual appeal and conversion optimization through modern UI patterns.
+LabXpert - Store is a modern e-commerce platform specializing in premium sneakers and shoes from top brands like Nike, Adidas, Jordan, Converse, and Vans. The application features a clean, product-focused design with user authentication, product browsing, and shopping cart functionality. Built as a full-stack web application with a React frontend and Express backend, it emphasizes visual appeal and conversion optimization through modern UI patterns.
 
 ## User Preferences
-
 Preferred communication style: Simple, everyday language.
 
 ## System Architecture
@@ -40,35 +38,3 @@ Preferred communication style: Simple, everyday language.
 ### Component Architecture
 - **Design Pattern**: Composition-based components with consistent prop interfaces
 - **Product Display**: Reusable ProductCard and ProductGrid components for scalable catalog presentation
-- **Navigation**: Responsive navbar with mobile-first design and conditional rendering based on auth state
-- **Forms**: Controlled components with validation and loading states for optimal UX
-
-### Development & Build Process
-- **Development**: Hot reload development server with error overlay
-- **Build System**: Vite for fast builds with esbuild for server-side bundling
-- **Type Safety**: Strict TypeScript configuration with path mapping for clean imports
-- **Asset Handling**: Static asset serving with CDN-ready image optimization
-
-## External Dependencies
-
-### UI & Styling
-- **shadcn/ui**: Complete component library with Radix UI primitives for accessibility
-- **Tailwind CSS**: Utility-first CSS framework with custom design tokens
-- **Lucide React**: Consistent icon set for UI elements
-- **Google Fonts**: Inter font family via CDN for typography
-
-### Database & ORM
-- **Neon Database**: Serverless PostgreSQL with connection pooling
-- **Drizzle ORM**: Type-safe database toolkit with migration system
-- **connect-pg-simple**: PostgreSQL session store for Express sessions
-
-### Development Tools
-- **Vite**: Fast build tool with hot module replacement
-- **TanStack Query**: Server state management with caching and synchronization
-- **Wouter**: Lightweight React router for SPA navigation
-- **date-fns**: Date manipulation utilities
-
-### Build & Deployment
-- **esbuild**: Fast JavaScript bundler for production builds
-- **tsx**: TypeScript execution environment for development
-- **PostCSS**: CSS processing with Tailwind integration
