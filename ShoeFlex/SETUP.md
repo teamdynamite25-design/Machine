@@ -59,4 +59,4 @@ To modify the store:
 2. Run `npm run build` to regenerate the `docs/` folder
 3. Commit changes to trigger auto-deployment
 
-Your shoe store is now ready for the web! 🚀
+Your LabXpert - Store is now ready for the web! 🚀
