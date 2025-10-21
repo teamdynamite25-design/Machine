@@ -1,6 +1,6 @@
-# SoleStyle - Premium Shoe Store
+# LabXpert - Store
 
-A modern React-based e-commerce shoe store featuring premium sneakers from top brands like Nike, Adidas, Jordan, Converse, and Vans.
+A modern React-based e-commerce LabXpert - Store featuring premium sneakers from top brands like Nike, Adidas, Jordan, Converse, and Vans.
 
 ## Features
 
@@ -45,31 +45,3 @@ This application is hosted on GitHub Pages and can be accessed at:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-## Usage
-
-1. **Login**: Use any email and password to access the store
-2. **Browse**: View featured shoes on the home page or browse all shoes
-3. **Add to Cart**: Click "Add to Cart" on any product
-4. **View Cart**: Check your cart count in the navbar or visit the cart page
-5. **Logout**: Use the logout button to end your session
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
