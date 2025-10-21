@@ -1,4 +1,4 @@
-# E-commerce Shoe Store Design Guidelines
+# E-commerce LabXpert - Store Design Guidelines
 
 ## Design Approach
 **Reference-Based Approach** - Drawing inspiration from modern e-commerce leaders like Shopify and Nike for clean, product-focused design patterns that prioritize visual appeal and conversion.
@@ -49,39 +49,3 @@
 #### Buttons
 - Primary: Background in accent color with white text
 - Secondary: Border style with primary color text
-- Padding: px-6 py-3 for consistency
-- Rounded-lg corners throughout
-- Disabled state with opacity-50 for cart links
-
-### Layout Structure
-
-#### Login Page
-- Full-height centered layout with subtle background pattern
-- Card-based form with elevation
-- Company branding at top
-- Responsive form that works on all screen sizes
-
-#### Homepage
-- Hero section with brand messaging (optional minimal banner)
-- Product grid section with clear hierarchy
-- Footer with essential links
-- Sticky navigation for easy access
-
-### Responsive Design
-- Mobile-first approach using Tailwind's responsive prefixes
-- Breakpoints: sm: (640px), md: (768px), lg: (1024px)
-- Grid adjustments: grid-cols-1 sm:grid-cols-2 lg:grid-cols-4
-- Navigation collapses to hamburger menu on mobile
-
-### Images
-**Product Images**: High-quality shoe photography with consistent lighting and white/transparent backgrounds. Each product card needs a square aspect ratio image (400x400px minimum). Place images prominently at the top of each product card.
-
-**No Hero Image**: This design focuses on immediate product discovery rather than lifestyle imagery, keeping the homepage clean and conversion-focused.
-
-### Interactive States
-- Hover effects on product cards with subtle scale transform
-- Button hover states with slight color darkening
-- Focus states for form inputs with ring styling
-- Loading states for simulated login process
-
-This design prioritizes clean product presentation, easy navigation, and professional aesthetics suitable for demo presentation while maintaining the familiar e-commerce patterns users expect.
